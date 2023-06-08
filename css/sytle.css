@@ -10,7 +10,7 @@
   --hover-color: #614fd0;
 
   /*============== Backgroud colors ================*/
-  --body-bg-color: #fefefe;
+  --body-bg-color: #b9f4f6;
   --card-bg-color: #fff;
   --model-bg-color: #fff;
   --bg-transparent-color: rgba(0, 0, 0, 0.1);
@@ -50,6 +50,7 @@ body {
   background: var(--body-bg-color);
   margin: 2rem 0 0 0;
   transition: 0.5s ease;
+  bac
 }
 
 a {
