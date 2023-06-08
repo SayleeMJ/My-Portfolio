@@ -3,8 +3,8 @@
 :root {
   /*============== Theme colors ================*/
   --first-color: #0e2431;
-  --second-color: #6a59d1;
-  --third-color: #777;
+  --second-color: #5d49d1;
+  --third-color: #393838;
 
   /*============== Hover colors ================*/
   --hover-color: #614fd0;
@@ -457,6 +457,10 @@ header.sticky .navigationBar {
   margin: 20px;
   padding: 15px 100px 20px 20px;
   border-radius: 5px;
+}
+
+.contact-form .name .hidden-label {
+  display: none;
 }
 
 .contact-form textarea {
